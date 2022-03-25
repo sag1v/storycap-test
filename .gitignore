@@ -10,6 +10,10 @@
 
 # production
 /build
+/storybook-static
+/integration/__screenshots__diff
+/integration/__screenshots__
+/integration/report.html
 
 # misc
 .DS_Store
